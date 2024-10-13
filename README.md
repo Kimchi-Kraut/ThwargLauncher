@@ -1,3 +1,2 @@
 # ThwargLauncher
-Asheron's Call Emulation Launcher
-Head to www.thwargle.com for an installer and information.
+Modifying ThwargLauncher so that it displays a classic MSN Gaming Zone launcher.
